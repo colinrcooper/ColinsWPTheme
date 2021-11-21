@@ -17,7 +17,6 @@ function my_custom_post_cv_key() {
         'search_items'       => __( 'Search CV Keys' ),
         'not_found'          => __( 'No CV Keys found' ),
         'not_found_in_trash' => __( 'No CV Keys found in the Trash' ), 
-        'parent_item_colon'  => ’,
         'menu_name'          => 'CV Keys'
     );
   
