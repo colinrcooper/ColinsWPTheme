@@ -60,7 +60,7 @@ get_header( 'resume-cv' ); ?>
                 endif;
 
             else: ?>
-			<p>Thank you for your interest. To protect my privacy, you need a key to access my resumé. If I’ve given you a key already, please type it into the textbox below and click Go. If you’d like to request a key, please <a href="/contact-me/"><b>contact me</b></a> with some details and I’ll be in touch as soon as I can.</p>
+			<p>Thank you for your interest. To protect my privacy, you need a key to access my resumé. If I’ve given you a key already, please type it into the textbox below and click Submit. If you’d like to request a key, please <a href="/contact-me/"><b>contact me</b></a> with some details and I’ll be in touch as soon as I can.</p>
             <form method="post">
 				<input type="email" placeholder="Your email address" name="cv_email_val"> 
 			    <input type="text" placeholder="Your key" pattern="[a-zA-Z0-9]+" name="cv_key_val">
